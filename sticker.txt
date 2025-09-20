@@ -1,0 +1,15 @@
+'CAACAgIAAxkBAAM7ZlnKQ_3sXeqIpSjoySuMz5p6XpMAAvwAA_cCyA_iSsJnpZUq7jUE'
+'CAACAgIAAxkBAAM9ZlnKScRhbG9VrNGrjKG1Qs01sS0AAjgLAAJO5JlLMrFH0tlPjNA1BA'
+'CAACAgIAAxkBAAM_ZlnKV1TRjfXnZL7aLqYa1rYtvlYAAh4JAAIYQu4I-VjZ7h0hnCE1BA'
+gender
+class_out
+hw_time
+general_ill_time
+bbone_ill
+neck_ill
+vascular_ill
+walk
+eye_contact
+hobby
+
+рассылка https://github.com/aiogram/aiogram/discussions/1336
